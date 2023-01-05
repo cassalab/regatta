@@ -1,0 +1,349 @@
+{
+    "length": 393,
+    "regions": [
+        {
+            "modelStart": 1,
+            "modelEnd": 25,
+            "colour": "#2dcf00",
+            "endStyle": "straight",
+            "end": 30,
+            "display": true,
+            "startStyle": "straight",
+            "aliEnd": 30,
+            "modelLength": 25,
+            "text": "P53_TAD",
+            "href": "/family/PF08563",
+            "type": "pfama",
+            "metadata": {
+                "scoreName": "e-value",
+                "score": "5.7e-08",
+                "description": "P53 transactivation motif",
+                "end": 30,
+                "accession": "PF08563",
+                "database": "pfam",
+                "identifier": "P53_TAD",
+                "aliEnd": 30,
+                "type": "Motif",
+                "aliStart": 6,
+                "start": 6
+            },
+            "aliStart": 6,
+            "start": 6
+        },
+        {
+            "modelStart": 1,
+            "modelEnd": 25,
+            "colour": "#ff5353",
+            "endStyle": "straight",
+            "end": 59,
+            "display": true,
+            "startStyle": "straight",
+            "aliEnd": 59,
+            "modelLength": 25,
+            "text": "TAD2",
+            "href": "/family/PF18521",
+            "type": "pfama",
+            "metadata": {
+                "scoreName": "e-value",
+                "score": "6.9e-14",
+                "description": "Transactivation domain 2",
+                "end": 59,
+                "accession": "PF18521",
+                "database": "pfam",
+                "identifier": "TAD2",
+                "aliEnd": 59,
+                "type": "Motif",
+                "aliStart": 35,
+                "start": 35
+            },
+            "aliStart": 35,
+            "start": 35
+        },
+        {
+            "modelStart": 2,
+            "modelEnd": 186,
+            "colour": "#5b5bff",
+            "endStyle": "curved",
+            "end": 289,
+            "display": true,
+            "startStyle": "curved",
+            "aliEnd": 288,
+            "modelLength": 187,
+            "text": "P53",
+            "href": "/family/PF00870",
+            "type": "pfama",
+            "metadata": {
+                "scoreName": "e-value",
+                "score": "5.3e-57",
+                "description": "P53 DNA-binding domain",
+                "end": 289,
+                "accession": "PF00870",
+                "database": "pfam",
+                "identifier": "P53",
+                "aliEnd": 288,
+                "type": "Domain",
+                "aliStart": 100,
+                "start": 99
+            },
+            "aliStart": 100,
+            "start": 99
+        },
+        {
+            "modelStart": 1,
+            "modelEnd": 41,
+            "colour": "#ebd61d",
+            "endStyle": "straight",
+            "end": 358,
+            "display": true,
+            "startStyle": "straight",
+            "aliEnd": 357,
+            "modelLength": 42,
+            "text": "P53_tetramer",
+            "href": "/family/PF07710",
+            "type": "pfama",
+            "metadata": {
+                "scoreName": "e-value",
+                "score": "1.8e-13",
+                "description": "P53 tetramerisation motif",
+                "end": 358,
+                "accession": "PF07710",
+                "database": "pfam",
+                "identifier": "P53_tetramer",
+                "aliEnd": 357,
+                "type": "Motif",
+                "aliStart": 319,
+                "start": 319
+            },
+            "aliStart": 319,
+            "start": 319
+        }
+    ],
+    "markups": [
+        {
+            "lineColour": "#333333",
+            "colour": "#ad8bfe",
+            "display": true,
+            "residue": "C",
+            "headStyle": "circle",
+            "v_align": "bottom",
+            "type": "UniProt predicted metal ion binding",
+            "metadata": {
+                "database": "UniProt",
+                "description": "C UniProt predicted metal ion binding:note=\"Zinc\"",
+                "start": 176
+            },
+            "start": 176
+        },
+        {
+            "lineColour": "#333333",
+            "colour": "#ad8bfe",
+            "display": true,
+            "residue": "H",
+            "headStyle": "circle",
+            "v_align": "bottom",
+            "type": "UniProt predicted metal ion binding",
+            "metadata": {
+                "database": "UniProt",
+                "description": "H UniProt predicted metal ion binding:note=\"Zinc\"",
+                "start": 179
+            },
+            "start": 179
+        },
+        {
+            "lineColour": "#333333",
+            "colour": "#ad8bfe",
+            "display": true,
+            "residue": "C",
+            "headStyle": "circle",
+            "v_align": "bottom",
+            "type": "UniProt predicted metal ion binding",
+            "metadata": {
+                "database": "UniProt",
+                "description": "C UniProt predicted metal ion binding:note=\"Zinc\"",
+                "start": 238
+            },
+            "start": 238
+        },
+        {
+            "lineColour": "#333333",
+            "colour": "#ad8bfe",
+            "display": true,
+            "residue": "C",
+            "headStyle": "circle",
+            "v_align": "bottom",
+            "type": "UniProt predicted metal ion binding",
+            "metadata": {
+                "database": "UniProt",
+                "description": "C UniProt predicted metal ion binding:note=\"Zinc\"",
+                "start": 242
+            },
+            "start": 242
+        }
+    ],
+    "metadata": {
+        "database": "uniprot",
+        "identifier": "P53_HUMAN",
+        "organism": "Homo sapiens (Human)",
+        "description": "Cellular tumor antigen p53",
+        "taxid": "9606",
+        "accession": "P04637"
+    },
+    "motifs": [
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 1,
+                "end": 23
+            },
+            "start": 1,
+            "end": 5,
+            "display": true
+        },
+        {
+            "colour": "#00ffff",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 25,
+                "end": 27
+            },
+            "start": 25,
+            "end": 27,
+            "display": false
+        },
+        {
+            "colour": "#00ffff",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 30,
+                "end": 31
+            },
+            "start": 31,
+            "end": 31,
+            "display": false
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 33,
+                "end": 97
+            },
+            "start": 90,
+            "end": 97,
+            "display": true
+        },
+        {
+            "colour": "#00ffff",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 157,
+                "end": 161
+            },
+            "start": 157,
+            "end": 161,
+            "display": false
+        },
+        {
+            "colour": "#00ffff",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 174,
+                "end": 175
+            },
+            "start": 174,
+            "end": 175,
+            "display": false
+        },
+        {
+            "colour": "#00ffff",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 216,
+                "end": 217
+            },
+            "start": 216,
+            "end": 217,
+            "display": false
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 281,
+                "end": 329
+            },
+            "start": 290,
+            "end": 318,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 343,
+                "end": 393
+            },
+            "start": 359,
+            "end": 393,
+            "display": true
+        },
+        {
+            "colour": "#86bcff",
+            "type": "low_complexity",
+            "metadata": {
+                "database": "segmasker",
+                "type": "low_complexity",
+                "start": 63,
+                "end": 89
+            },
+            "start": 63,
+            "end": 89,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 33,
+                "end": 97
+            },
+            "type": "disorder",
+            "display": true,
+            "end": 34,
+            "start": 33
+        },
+        {
+            "colour": "#cccccc",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 33,
+                "end": 97
+            },
+            "type": "disorder",
+            "display": true,
+            "end": 62,
+            "start": 60
+        }
+    ]
+}

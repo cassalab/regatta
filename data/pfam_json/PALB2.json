@@ -1,0 +1,500 @@
+{
+    "length": 1186,
+    "regions": [
+        {
+            "modelStart": 4,
+            "modelEnd": 347,
+            "colour": "#2dcf00",
+            "endStyle": "straight",
+            "end": 1184,
+            "display": true,
+            "startStyle": "straight",
+            "aliEnd": 1184,
+            "modelLength": 347,
+            "text": "PALB2_WD40",
+            "href": "/family/PF16756",
+            "type": "pfama",
+            "metadata": {
+                "scoreName": "e-value",
+                "score": "1.1e-183",
+                "description": "Partner and localizer of BRCA2 WD40 domain",
+                "end": 1184,
+                "accession": "PF16756",
+                "database": "pfam",
+                "identifier": "PALB2_WD40",
+                "aliEnd": 1184,
+                "type": "Repeat",
+                "aliStart": 840,
+                "start": 837
+            },
+            "aliStart": 840,
+            "start": 837
+        }
+    ],
+    "markups": [],
+    "metadata": {
+        "database": "uniprot",
+        "identifier": "PALB2_HUMAN",
+        "organism": "Homo sapiens (Human)",
+        "description": "Partner and localizer of BRCA2",
+        "taxid": "9606",
+        "accession": "Q86YC2"
+    },
+    "motifs": [
+        {
+            "colour": "#00ffff",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 1,
+                "end": 13
+            },
+            "start": 14,
+            "end": 13,
+            "display": false
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 34,
+                "end": 66
+            },
+            "start": 42,
+            "end": 66,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 68,
+                "end": 72
+            },
+            "start": 68,
+            "end": 72,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 88,
+                "end": 152
+            },
+            "start": 88,
+            "end": 152,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 154,
+                "end": 157
+            },
+            "start": 154,
+            "end": 157,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 167,
+                "end": 170
+            },
+            "start": 167,
+            "end": 170,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 173,
+                "end": 241
+            },
+            "start": 173,
+            "end": 241,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 244,
+                "end": 303
+            },
+            "start": 244,
+            "end": 303,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 305,
+                "end": 316
+            },
+            "start": 305,
+            "end": 316,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 320,
+                "end": 322
+            },
+            "start": 320,
+            "end": 322,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 332,
+                "end": 333
+            },
+            "start": 332,
+            "end": 333,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 336,
+                "end": 392
+            },
+            "start": 336,
+            "end": 392,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 394,
+                "end": 396
+            },
+            "start": 394,
+            "end": 396,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 434,
+                "end": 526
+            },
+            "start": 446,
+            "end": 526,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 531,
+                "end": 532
+            },
+            "start": 531,
+            "end": 532,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 538,
+                "end": 539
+            },
+            "start": 538,
+            "end": 539,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 541,
+                "end": 544
+            },
+            "start": 541,
+            "end": 544,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 560,
+                "end": 563
+            },
+            "start": 560,
+            "end": 563,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 568,
+                "end": 569
+            },
+            "start": 568,
+            "end": 569,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 625,
+                "end": 626
+            },
+            "start": 625,
+            "end": 626,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 640,
+                "end": 642
+            },
+            "start": 640,
+            "end": 642,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 654,
+                "end": 698
+            },
+            "start": 676,
+            "end": 698,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 706,
+                "end": 731
+            },
+            "start": 706,
+            "end": 731,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 735,
+                "end": 744
+            },
+            "start": 735,
+            "end": 744,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 748,
+                "end": 749
+            },
+            "start": 748,
+            "end": 749,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 774,
+                "end": 793
+            },
+            "start": 774,
+            "end": 793,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 795,
+                "end": 806
+            },
+            "start": 795,
+            "end": 806,
+            "display": true
+        },
+        {
+            "colour": "#00ffff",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 839,
+                "end": 847
+            },
+            "start": 839,
+            "end": 847,
+            "display": false
+        },
+        {
+            "colour": "#32cd32",
+            "type": "coiled_coil",
+            "metadata": {
+                "database": "ncoils",
+                "type": "coiled_coil",
+                "start": 14,
+                "end": 41
+            },
+            "start": 14,
+            "end": 41,
+            "display": true
+        },
+        {
+            "colour": "#86bcff",
+            "type": "low_complexity",
+            "metadata": {
+                "database": "segmasker",
+                "type": "low_complexity",
+                "start": 12,
+                "end": 27
+            },
+            "start": 12,
+            "end": 13,
+            "display": true
+        },
+        {
+            "colour": "#86bcff",
+            "type": "low_complexity",
+            "metadata": {
+                "database": "segmasker",
+                "type": "low_complexity",
+                "start": 436,
+                "end": 445
+            },
+            "start": 436,
+            "end": 445,
+            "display": true
+        },
+        {
+            "colour": "#86bcff",
+            "type": "low_complexity",
+            "metadata": {
+                "database": "segmasker",
+                "type": "low_complexity",
+                "start": 664,
+                "end": 675
+            },
+            "start": 664,
+            "end": 675,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 1,
+                "end": 13
+            },
+            "type": "disorder",
+            "display": true,
+            "end": 11,
+            "start": 1
+        },
+        {
+            "colour": "#cccccc",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 434,
+                "end": 526
+            },
+            "type": "disorder",
+            "display": true,
+            "end": 435,
+            "start": 434
+        },
+        {
+            "colour": "#cccccc",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 654,
+                "end": 698
+            },
+            "type": "disorder",
+            "display": true,
+            "end": 663,
+            "start": 654
+        }
+    ]
+}

@@ -1,0 +1,366 @@
+{
+    "length": 3056,
+    "regions": [
+        {
+            "modelStart": 4,
+            "modelEnd": 150,
+            "colour": "#2dcf00",
+            "endStyle": "curved",
+            "end": 165,
+            "display": true,
+            "startStyle": "curved",
+            "aliEnd": 164,
+            "modelLength": 151,
+            "text": "TAN",
+            "href": "/family/PF11640",
+            "type": "pfama",
+            "metadata": {
+                "scoreName": "e-value",
+                "score": "1e-19",
+                "description": "Telomere-length maintenance and DNA damage repair",
+                "end": 165,
+                "accession": "PF11640",
+                "database": "pfam",
+                "identifier": "TAN",
+                "aliEnd": 164,
+                "type": "Domain",
+                "aliStart": 11,
+                "start": 8
+            },
+            "aliStart": 11,
+            "start": 8
+        },
+        {
+            "modelStart": 2,
+            "modelEnd": 345,
+            "colour": "#ff5353",
+            "endStyle": "straight",
+            "end": 2489,
+            "display": true,
+            "startStyle": "straight",
+            "aliEnd": 2488,
+            "modelLength": 346,
+            "text": "FAT",
+            "href": "/family/PF02259",
+            "type": "pfama",
+            "metadata": {
+                "scoreName": "e-value",
+                "score": "5.4e-42",
+                "description": "FAT domain",
+                "end": 2489,
+                "accession": "PF02259",
+                "database": "pfam",
+                "identifier": "FAT",
+                "aliEnd": 2488,
+                "type": "Repeat",
+                "aliStart": 2097,
+                "start": 2096
+            },
+            "aliStart": 2097,
+            "start": 2096
+        },
+        {
+            "modelStart": 5,
+            "modelEnd": 249,
+            "colour": "#5b5bff",
+            "endStyle": "curved",
+            "end": 2962,
+            "display": true,
+            "startStyle": "curved",
+            "aliEnd": 2961,
+            "modelLength": 250,
+            "text": "PI3_PI4_kinase",
+            "href": "/family/PF00454",
+            "type": "pfama",
+            "metadata": {
+                "scoreName": "e-value",
+                "score": "2.7e-47",
+                "description": "Phosphatidylinositol 3- and 4-kinase",
+                "end": 2962,
+                "accession": "PF00454",
+                "database": "pfam",
+                "identifier": "PI3_PI4_kinase",
+                "aliEnd": 2961,
+                "type": "Family",
+                "aliStart": 2715,
+                "start": 2713
+            },
+            "aliStart": 2715,
+            "start": 2713
+        },
+        {
+            "modelStart": 2,
+            "modelEnd": 31,
+            "colour": "#ebd61d",
+            "endStyle": "straight",
+            "end": 3056,
+            "display": true,
+            "startStyle": "straight",
+            "aliEnd": 3055,
+            "modelLength": 32,
+            "text": "FATC",
+            "href": "/family/PF02260",
+            "type": "pfama",
+            "metadata": {
+                "scoreName": "e-value",
+                "score": "3e-08",
+                "description": "FATC domain",
+                "end": 3056,
+                "accession": "PF02260",
+                "database": "pfam",
+                "identifier": "FATC",
+                "aliEnd": 3055,
+                "type": "Family",
+                "aliStart": 3026,
+                "start": 3025
+            },
+            "aliStart": 3026,
+            "start": 3025
+        }
+    ],
+    "markups": [],
+    "metadata": {
+        "database": "uniprot",
+        "identifier": "ATM_HUMAN",
+        "organism": "Homo sapiens (Human)",
+        "description": "Serine-protein kinase ATM",
+        "taxid": "9606",
+        "accession": "Q13315"
+    },
+    "motifs": [
+        {
+            "colour": "#00ffff",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 41,
+                "end": 42
+            },
+            "start": 41,
+            "end": 42,
+            "display": false
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 837,
+                "end": 846
+            },
+            "start": 837,
+            "end": 846,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 863,
+                "end": 874
+            },
+            "start": 863,
+            "end": 874,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 876,
+                "end": 878
+            },
+            "start": 876,
+            "end": 878,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 1131,
+                "end": 1132
+            },
+            "start": 1131,
+            "end": 1132,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 1135,
+                "end": 1136
+            },
+            "start": 1135,
+            "end": 1136,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 1138,
+                "end": 1139
+            },
+            "start": 1138,
+            "end": 1139,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 1972,
+                "end": 1974
+            },
+            "start": 1972,
+            "end": 1974,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 1986,
+                "end": 1989
+            },
+            "start": 1986,
+            "end": 1989,
+            "display": true
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 2582,
+                "end": 2595
+            },
+            "start": 2582,
+            "end": 2595,
+            "display": true
+        },
+        {
+            "colour": "#00ffff",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 2715,
+                "end": 2716
+            },
+            "start": 2715,
+            "end": 2716,
+            "display": false
+        },
+        {
+            "colour": "#cccccc",
+            "type": "disorder",
+            "metadata": {
+                "database": "IUPred",
+                "type": "disorder",
+                "start": 2978,
+                "end": 2986
+            },
+            "start": 2978,
+            "end": 2986,
+            "display": true
+        },
+        {
+            "colour": "#32cd32",
+            "type": "coiled_coil",
+            "metadata": {
+                "database": "ncoils",
+                "type": "coiled_coil",
+                "start": 1614,
+                "end": 1634
+            },
+            "start": 1614,
+            "end": 1634,
+            "display": true
+        },
+        {
+            "colour": "#32cd32",
+            "type": "coiled_coil",
+            "metadata": {
+                "database": "ncoils",
+                "type": "coiled_coil",
+                "start": 3003,
+                "end": 3023
+            },
+            "start": 3003,
+            "end": 3023,
+            "display": true
+        },
+        {
+            "colour": "#86bcff",
+            "type": "low_complexity",
+            "metadata": {
+                "database": "segmasker",
+                "type": "low_complexity",
+                "start": 432,
+                "end": 446
+            },
+            "start": 432,
+            "end": 446,
+            "display": true
+        },
+        {
+            "colour": "#86bcff",
+            "type": "low_complexity",
+            "metadata": {
+                "database": "segmasker",
+                "type": "low_complexity",
+                "start": 641,
+                "end": 653
+            },
+            "start": 641,
+            "end": 653,
+            "display": true
+        },
+        {
+            "colour": "#86bcff",
+            "type": "low_complexity",
+            "metadata": {
+                "database": "segmasker",
+                "type": "low_complexity",
+                "start": 894,
+                "end": 907
+            },
+            "start": 894,
+            "end": 907,
+            "display": true
+        },
+        {
+            "colour": "#00ffff",
+            "type": "low_complexity",
+            "metadata": {
+                "database": "segmasker",
+                "type": "low_complexity",
+                "start": 2443,
+                "end": 2458
+            },
+            "start": 2443,
+            "end": 2458,
+            "display": false
+        }
+    ]
+}
