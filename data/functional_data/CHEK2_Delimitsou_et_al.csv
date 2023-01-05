@@ -1,0 +1,123 @@
+﻿cDNA (NM_007194.3),Protein (NP_009125.1),Domain,SIFT/PROVEAN,Align GVGDa,PolyPhen-2,PhastConsb,PhyloPc,MutationTaster,GERPd,Granthame,MAF (EA),In vivo results -Characterization
+c.7C>T,p.(Arg3Trp),-,*Damaging,C25,Probably damaging,1,2.124,Polymorphism (0.869),3.34,101,0.0233,Benign
+c.14C>T,p.(Ser5Leu),-,*Damaging,C0,Benign,0.191,0.362,Polymorphism (0.999),−0.66,145,0.0116,Benign
+c.61C>A,p.(Pro21Thr),SCD,Tolerated,C0,Benign,0.576,−1.206,Polymorphism (0.997),N.A.,N.A.,N.A.,Benign
+c.170C>T,p.(Ser57Phe),SCD,Tolerated,C65,Probably damaging,0.998,4.061,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.190G>A,p.(Glu64Lys),SCD,Tolerated,C15,Benign,1,2.612,Disease causing (0.807),4.41,56,0.0698,Benign
+c.202A>G,p.(Thr68Ala),SCD,Tolerated,C0,Possibly damaging,0.987,2.063,Disease causing (0.863),N.A.,N.A.,N.A.,Benign
+c.239C>A,p.(Pro80His),-,Tolerated,C0,Probably damaging,0.849,2.527,Disease causing (0.923),N.A.,N.A.,N.A.,Benign
+c.254C>T,p.(Pro85Leu),-,Tolerated,C0,Possibly damaging,0.877,1.372,Polymorphism (0.824),N.A.,N.A.,N.A.,Benign
+c.277T>C,p.(Trp93Arg),-,Damaging,C65,Probably damaging,1,3.39,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.307T>C,p.(Phe103Leu),-,Tolerated,C15,Benign,1,3.348,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.322T>C,p.(Cys108Arg),-,Damaging,C65,Probably damaging,1,3.825,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.349A>G,p.(Arg117Gly),FHA,Damaging,C65,Probably damaging,1,1.49,Disease causing (0.999),4.81,125,0.0116,Damaging
+c.368A>G,p.(Tyr123Cys),FHA,Tolerated,C65,Benign,1,3.892,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.400G>C,p.(Asp134His),FHA,Tolerated,C0,Possibly damaging,0.52,1.392,Polymorphism (0.986),4.86,81,0.0116,Benign
+c.410G>A,p.(Arg137Gln),FHA,Tolerated,C0,Benign,0.997,0.834,Polymorphism (0.556),1.56,43,0.00116,Benign
+c.433C>T,p.(Arg145Trp),FHA,Damaging,C65,Probably damaging,0.999,1.516,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.434G>A,p.(Arg145Gln),FHA,Tolerated,C35,Probably damaging,1,4.69,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.442A>G,p.(Arg148Gly),FHA,Damaging,C25,Probably damaging,1,0.868,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.443G>C,p.(Arg148Thr),FHA,Damaging,C0,Probably damaging,1,4.69,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.451G>T,p.(Gly151Cys),FHA,Damaging,C0,Benign,0.999,2.736,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.470T>C,p.(Ile157Thr),FHA,Tolerated,C25,Possibly damaging,1,3.51,Disease causing (0.998),5.87,89,0.2442,Benign
+c.475T>C,p.(Tyr159His),FHA,Damaging,C65,Probably damaging,1,3.51,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.479T>G,p.(Ile160Arg),FHA,Damaging,C65,Probably damaging,1,3.51,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.479T>C,p.(Ile160Thr),FHA,Damaging,C65,Probably damaging,1,3.51,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.480A>G,p.(Ile160Met),FHA,Damaging,C0,Probably damaging,0.982,−0.276,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.485A>G,p.(Asp162Gly),FHA,Damaging,C65,Probably damaging,1,3.51,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.497A>G,p.(Asn166Ser),FHA,Damaging,C45,Probably damaging,1,3.51,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.499G>A,p.(Gly167Arg),FHA,Damaging,C65,Probably damaging,1,4.205,Disease causing (0.999),5.87,125,0.0116,Damaging
+c.514A>G,p.(Thr172Ala),FHA,Tolerated,C0,Benign,0.79,1.207,Polymorphism (0.998),N.A.,N.A.,N.A.,Benign
+c.520C>T,p.(Leu174Phe),FHA,Tolerated,C0,Probably damaging,0.984,0.65,Disease causing (0.936),N.A.,N.A.,N.A.,Benign
+c.522T>C,p.(Val175Ala),FHA,Damaging,C25,Possibly damaging,0.949,−0.319,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.538C>T,p.(Arg180Cys),-,Damaging,C25,Possibly damaging,1,2.202,Disease causing (0.999),5.87,180,0.1279,Benign
+c.539G>A,p.(Arg180His),-,Damaging,C0,Benign,1,1.882,Disease causing (0.997),N.A.,N.A.,N.A.,Intermediate
+c.541C>T,p.(Arg181Cys),-,Tolerated,C0,Benign,0.998,1.24,Disease causing (0.994),3.76,180,0.0116,Benign
+c.542G>A,p.(Arg181His),-,Tolerated,C0,Benign,1,1.489,Polymorphism (0.628),N.A.,N.A.,N.A.,Benign
+c.544C>A,p.(Pro182Thr),-,Tolerated,C0,Benign,0.998,2.627,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.548T>C,p.(Leu183Ser),-,Damaging,C65,Probably damaging,0.988,3.51,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.549G>C,p.(Leu183Phe),-,Damaging,C15,Probably damaging,0.995,1.263,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.555C>G,p.(Asn185Lys),-,Damaging,C0,Probably damaging,1,1.197,Disease causing (0.999),N.A.,N.A.,N.A.,Intermediate
+c.556A>C,p.(Asn186His),-,Damaging,C65,Probably damaging,1,3.51,Disease causing (0.999),5.87,68,0.0116,Benign
+c.565A>G,p.(Ile189Val),-,Tolerated,C25,Probably damaging,1,3.51,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.608A>G,p.(Asp203Gly),-,Damaging,C65,Probably damaging,1,3.688,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.613A>T,p.(Thr205Ser),-,Tolerated,C0,Benign,1,2.118,Disease causing (0.848),N.A.,N.A.,N.A.,Benign
+c.620A>T,p.(Asp207Val),-,Tolerated,C65,Possibly damaging,1,3.688,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.661A>G,p.(Ile221Val),-,Tolerated,C0,Benign,1,2.172,Disease causing (0.995),5.51,29,0.0117,Benign
+c.663C>G,p.(Ile221Met),-,Tolerated,C0,Possibly damaging,1,2.974,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.664A>G,p.(Met222Val),-,Tolerated,C0,Benign,1,1.396,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.688G>T,p.(Ala230Ser),Kinase,Tolerated,C15,Benign,1,3.318,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.707T>C,p.(Leu236Pro),Kinase,Damaging,C45,Probably damaging,1,2.785,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.715G>A,p.(Glu239Lys),Kinase,Tolerated,C15,Probably damaging,1,3.376,Disease causing (0.999),5.27,56,0.0233,Benign
+c.715G>C,p.(Glu239Gln),Kinase,Tolerated,C0,Probably damaging,1,3.376,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.727T>C,p.(Cys243Arg),Kinase,Tolerated,C0,Possibly damaging,0.981,2.834,Disease causing (0.999),5.27,180,0.0116,Benign
+c.751A>T,p.(Ile251Phe),Kinase,Tolerated,C15,Probably damaging,1,2.834,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.787G>C,p.(Glu263Gln),Kinase,Tolerated,C0,Benign,0.857,3.274,Disease causing (0.963),N.A.,N.A.,N.A.,Benign
+c.842A>G,p.(Asn281Ser),Kinase,Tolerated,C15,Benign,0.999,2.703,Disease causing (0.572),N.A.,N.A.,N.A.,Benign
+c.904G>A,p.(Glu302Lys),Kinase,Damaging,C55,Probably damaging,1,2.602,Disease causing (0.999),N.A.,N.A.,N.A.,Intermediate
+c.906A>C,p.(Glu302Asp),Kinase,Damaging,C35,Possibly damaging,1,0.824,Disease causing (0.999),N.A.,N.A.,N.A.,Intermediate
+c.911T>C,p.(Met304Thr),Kinase,Tolerated,C55,Probably damaging,1,4.142,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.917G>C,p.(Gly306Ala),Kinase,Tolerated,C55,Probably damaging,1,5.005,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.926T>C,p.(Leu309Pro),Kinase,Damaging,C65,Probably damaging,1,4.142,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.931G>A,p.(Asp311Asn),Kinase,Tolerated,C0,Benign,1,2.434,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.952C>T,p.(Arg318Cys),Kinase,Tolerated,C15,Probably damaging,0.564,0.762,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.980A>G,p.(Tyr327Cys),Kinase,Damaging,C65,Probably damaging,1,4.142,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.1000G<A,p.(Ala334Thr),Kinase,Damaging,C55,Probably damaging,1,5.005,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.1012C>T,p.(Leu338Phe),Kinase,Damaging,C15,Probably damaging,1,4.665,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.1024G>A,p.(Gly342Ser),Kinase,Damaging,C55,Probably damaging,1,4.665,Disease causing (0.999),N.A.,N.A.,N.A.,benign
+c.1036C>T,p.(Arg346Cys),Kinase,Damaging,C65,Probably damaging,1,1.417,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.1037G>A,p.(Arg346His),Kinase,Damaging,C25,Probably damaging,1,4.73,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.1039G>A,p.(Asp347Asn),Kinase,Damaging,C15,Probably damaging,1,4.73,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.1040A>C,p.(Asp347Ala),Kinase,Damaging,C65,Probably damaging,1,2.48,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.1054A>G,p.(Asn352Asp),Kinase,Damaging,C15,Probably damaging,1,3.928,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.1067C>T,p.(Ser356Leu),Kinase,Tolerated,C15,Probably damaging,1,4.73,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.1091T>C,p.(Ile364Thr),Kinase,Damaging,C65,Probably damaging,1,3.928,Disease causing (1),N.A.,N.A.,N.A.,Intermediate
+c.1109G>A,p.(Gly370Glu),Kinase,Damaging,C0,Probably damaging,1,3.517,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.1111C>T,p.(His371Tyr),Kinase,Damaging,C35,Benign,1,5.469,Disease causing (0.998),N.A.,N.A.,N.A.,Benign
+c.1118A>G,p.(Lys373Arg),Kinase,Tolerated,C25,Benign,1,2.815,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.1130A>G,p.(Glu377Gly),Kinase,Damaging,C65,Possibly damaging,1,4.53,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.1133C>T,p.(Thr378Ile),Kinase,Tolerated,C15,Benign,1,5.469,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.1141A>G,p.(Met381Val),Kinase,Tolerated,C15,Possibly damaging,1,4.53,Disease causing (0.999),5.89,21,0.0349,Benign
+c.1153T>C,p.(Cys385Arg),Kinase,Damaging,C65,Probably damaging,1,4.53,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.1160C>G,p.(Thr387Ser),Kinase,Damaging,C55,Benign,1,5.469,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.1169A>C,p.(Tyr390Ser),Kinase,Damaging,C65,Probably damaging,0.995,4.53,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.1174G>C,p.(Ala392Pro),Kinase,Damaging,C25,Probably damaging,1,5.392,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.1175C>T,p.(Ala392Val),Kinase,Damaging,C65,Probably damaging,1,5.392,Disease causing (0.999),5.73,64,0.0116,Damaging
+c.1180G>A,p.(Glu394Lys),Kinase,Damaging,C55,Probably damaging,1,5.392,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.1183G>C,p.(Val395Leu),Kinase,Damaging,C25,Probably damaging,1,3.805,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.1201A>G,p.(Thr401Ala),Kinase,Tolerated,C0,Benign,0.857,1.972,Disease causing (0.999),N.A.,N.A.,N.A.,Intermediate
+c.1215C>A,p.(Asn405Lys),Kinase,Tolerated,C0,Benign,0.842,0.227,Polymorphism (0.992),N.A.,N.A.,N.A.,Benign
+c.1216C>T,p.(Arg406Cys),Kinase,Tolerated,C15,Possibly damaging,0.838,1.772,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.1217G>A,p.(Arg406His),Kinase,Damaging,C0,Probably damaging,0.705,1.224,Disease causing (0.983),3.53,29,0.0116,Benign
+c.1259G>A,p.(Cys420Thr),Kinase,Damaging,C65,Probably damaging,1,5.392,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.1270T>C,p.(Tyr424His),Kinase,Tolerated,C65,Possibly damaging,1,4.282,Disease causing (0.999),5.81,83,0.0349,Damaging
+c.1312G>T,p.(Asp438Tyr),Kinase,Damaging,C25,Probably damaging,1,3.555,Disease causing (0.999),5.81,160,0.0349,Benign
+c.1313A>G,p.(Asp438Gly),Kinase,Damaging,C15,Possibly damaging,1,4.282,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.1333T>C,p. (Tyr445His),Kinase,Damaging,C25,Probably damaging,1,2.793,Disease causing (0.999),N.A.,N.A.,N.A.,Intermediate
+c.1336A>G,p.(Asn446Asp),Kinase,Tolerated,C0,Benign,1,1.799,Polymorphism (0.902),N.A.,N.A.,N.A.,Benign
+c.1343T>G,p.(Ile448Ser),Kinase,Tolerated,C65,Benign,1,4.323,Disease causing (0.999),5.91,1.42,0.0116,Intermediate
+c.1383C>G,p.(Asp461Glu),Kinase,Damaging,C35,Benign,0.997,0.155,Disease causing (0.999),N.A.,N.A.,N.A.,Intermediate
+c.1420C>T,p.(Arg474Cys),Kinase,Damaging,C65,Probably damaging,0.87,1.865,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.1423T>A,p.(Phe475Ile),Kinase,Tolerated,C0,Benign,0.754,0.152,Polymorphism (0.993),0.89,21,0.0213,Benign
+c.1427C>T,p.(Thr476Met),Kinase,Damaging,C15,Probably damaging,0.805,1.907,Disease causing (0.999),4.43,81,0.0639,Intermediate
+c.1448A>G,p.(His483Arg),Kinase,Damaging,C25,Probably damaging,1,3.723,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.1450C>A,p.(Pro484Thr),Kinase,Damaging,C35,Possibly damaging,1,4.485,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.1451C>T,p.(Pro484Leu),Kinase,Damaging,C65,Probably damaging,0.998,4.485,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.1470C>A,p.(Asp490Glu),-,Tolerated,C0,Benign,0.997,0.663,Disease causing (0.959),N.A.,N.A.,N.A.,Benign
+c.1489G>A,p.(Asp497Asn),-,Tolerated,C0,Benign,0,−0.118,Polymorphism (0.999),N.A.,N.A.,N.A.,Benign
+c.1501G>A,p.(Glu501Lys),-,Tolerated,C0,Benign,0.453,0.632,Polymorphism (0.999),N.A.,N.A.,N.A.,Benign
+c.1510G>C,p.(Glu504Gln),-,Tolerated,C0,Benign,0,0.129,Polymorphism (0.999),N.A.,N.A.,N.A.,Benign
+c.1513T>A,p.(Ser505Thr),-,Tolerated,C0,Benign,0.001,0.325,Polymorphism (0.999),N.A.,N.A.,N.A.,Benign
+c.1525C>T,p.(Pro509Ser),-,Tolerated,C0,Benign,0,−0.049,Polymorphism (0.999),N.A.,N.A.,N.A.,Intermediate
+c.1526C>T,p.(Pro509Leu),-,Tolerated,C0,Benign,0.004,1.338,Polymorphism (0.999),N.A.,N.A.,N.A.,Intermediate
+c.1534C>G,p.(Leu512Val),-,Tolerated,C0,Benign,0.002,0.603,Polymorphism (0.999),N.A.,N.A.,N.A.,Benign
+c.1556G>A,p.(Arg519Gln),NLS,Tolerated,C0,Benign,0.976,−0.295,Disease causing (0.620),N.A.,N.A.,N.A.,Intermediate
+c.1556G>T,p.(Arg519Leu),NLS,Damaging,C25,Possibly damaging,0.976,−0.295,Disease causing (0.921),N.A.,N.A.,N.A.,Intermediate
+c.1561C>T,p.(Arg521Trp),NLS,Damaging,C65,Probably damaging,1,2.918,Disease causing (0.999),N.A.,N.A.,N.A.,Benign
+c.1567C>T,p.(Arg523Cys),-,Tolerated,C15,Possibly damaging,0.159,1.574,Polymorphism (0.999),3.73,180,0.0218,Benign
+c.1582G>A,p.(Glu528Lys),-,Tolerated,C15,Possibly damaging,0.736,2.918,Disease causing (0.978),4.76,56,0.0218,Benign
+c.1591G>C,p.(Glu531Gln),-,Tolerated,C0,Benign,0,0.298,Polymorphism (0.999),N.A.,N.A.,N.A.,Benign
+c.1597A>G,p.(Thr533Ala),-,Tolerated,C0,Benign,0.017,−0.369,Polymorphism (0.999),N.A.,N.A.,N.A.,Benign
+c.1604G>A,p.(Arg535His),-,Tolerated,C0,Probably damaging,0.189,0.725,Polymorphism (0.999),N.A.,N.A.,N.A.,Intermediate
+c.320_592del6160,p.(Glu107_Lys197del),-,Deleterious,-,-,-,-,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
+c.793_846del7566,p.(Asp265_His282del),Kinase,Deleterious,-,-,-,-,Disease causing (0.999),N.A.,N.A.,N.A.,Damaging
